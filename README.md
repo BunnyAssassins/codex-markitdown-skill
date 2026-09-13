@@ -1,5 +1,7 @@
 # Codex MarkItDown Skill
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Codex skill that safely converts local documents into LLM-ready Markdown with [Microsoft MarkItDown](https://github.com/microsoft/markitdown).
 
 ## What it adds
@@ -31,4 +33,3 @@ MarkItDown requires Python 3.10 or newer. The pinned dependency set enables PDF,
 ## License
 
 The skill integration is released under the MIT License. Microsoft MarkItDown is a separate dependency distributed under its own license.
-
